@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/navneet-kumar-5a6b66240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneet-kumar-5a6b66240" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/navneet_1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="navneet_1234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/its-navneet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its-navneet" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/its-me-navneet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its-navneet" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kumarnavneetkumar14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarnavneetkumar14" height="30" width="40" /></a>
 </p>
 
