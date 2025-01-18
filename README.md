@@ -1,4 +1,4 @@
-# <p align="center"> Hi, I’m 👋 Harsh Rastogi </p>
+# <p align="center"> Hi, I’m 👋 Navneet kumar </p>
 ### <p align="center"> want to explore new technologies </p>
 - 👀 I’m interested in Web development|c++ |python 
 - 💞️ I’m looking to collaborate on different project on Web Development
